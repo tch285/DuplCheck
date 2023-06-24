@@ -1,0 +1,45 @@
+Starting check of 523306.
+
+Zeroes: 0 Duplicates: 11325 Total: 374216200 Fraction: 0
+523306 done.
+Starting check of 523786.
+
+Zeroes: 0 Duplicates: 10787 Total: 360765331 Fraction: 0
+523786 done.
+Starting check of 526596.
+
+Zeroes: 0 Duplicates: 11104 Total: 368283967 Fraction: 0
+526596 done.
+Starting check of 526938.
+
+Zeroes: 0 Duplicates: 11238 Total: 384420831 Fraction: 0
+526938 done.
+Starting check of 527821.
+
+Zeroes: 0 Duplicates: 11041 Total: 361141784 Fraction: 0
+527821 done.
+Starting check of 528448.
+
+Zeroes: 0 Duplicates: 10410 Total: 350065762 Fraction: 0
+528448 done.
+Starting check of 528798.
+
+Zeroes: 4 Duplicates: 9879 Total: 350011478 Fraction: 0
+528798 done.
+Starting check of 529115.
+
+Zeroes: 0 Duplicates: 6076 Total: 203319642 Fraction: 0
+529115 done.
+Starting check of 529324.
+
+Zeroes: 0 Duplicates: 4836 Total: 161117700 Fraction: 0
+529324 done.
+Starting check of 529462.
+
+Zeroes: 0 Duplicates: 10363 Total: 332186470 Fraction: 0
+529462 done.
+Starting check of 529662.
+
+Zeroes: 0 Duplicates: 10429 Total: 351347607 Fraction: 0
+529662 done.
+All done.
